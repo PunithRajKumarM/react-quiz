@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![Screenshot (29)](https://github.com/PunithRajKumarM/react-quiz/assets/146944110/6147db3c-a409-4382-905c-0be39104335c)
+![Screenshot (31)](https://github.com/PunithRajKumarM/react-quiz/assets/146944110/f74ac256-71d4-4f33-990f-d4757a6b4ff0)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
